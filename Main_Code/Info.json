@@ -1,0 +1,13 @@
+{
+    "Bot_Token":"",
+    "Client_ID":"",
+    "Invite_URL":"",
+    "Defualts":[
+        "Hello and welcome to our server! Make sure to read the rules and have fun!",
+        "has left! Say goodbye!",
+        "has joined! Say hello!",
+        "has Been muted!",
+        "has been kicked!",
+        "has been banned!"
+    ]
+}

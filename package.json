@@ -1,0 +1,15 @@
+{
+  "name": "bubble-bot",
+  "version": "1.0.0",
+  "description": "Bubble Bot is a helpful all-purpose Discord bot. See README.md for more info",
+  "main": "Main_Code/Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Sterken",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "npm": "^10.8.1"
+  }
+}
